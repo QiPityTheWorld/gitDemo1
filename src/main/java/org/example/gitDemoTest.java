@@ -17,5 +17,6 @@ public class gitDemoTest {
     public static void main(String[] args) {
         System.out.println("hello git!");
         System.out.println("hello git!0.2");
+        System.out.println("hello git!0.3");
     }
 }
