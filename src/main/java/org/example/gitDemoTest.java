@@ -18,5 +18,6 @@ public class gitDemoTest {
         System.out.println("hello git!");
         System.out.println("hello git!0.2");
         System.out.println("hello git!0.3");
+        System.out.println("hello git!0.4");
     }
 }
