@@ -26,5 +26,9 @@ public class gitDemoTest {
         System.out.println("hello git!0.4");
         System.out.println("hello git!0.4");
         System.out.println("hello git!0.6");
+        System.out.println("hello git!0.7");
+        System.out.println("hello git!0.7");
+        System.out.println("hello git!0.8");
+        System.out.println("sdfsadfs");
     }
 }
